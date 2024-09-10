@@ -1,6 +1,6 @@
 @import "reset";
 
-div {
+.box1 {
     background-color: hotpink;
     h1 {
         font-size: 2rem;
@@ -8,4 +8,8 @@ div {
     p {
         font-size: 1.2rem;
     }
+}
+
+.box2 {
+    background-color: #aaa;
 }
